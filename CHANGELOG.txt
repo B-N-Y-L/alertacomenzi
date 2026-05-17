@@ -1,0 +1,8 @@
+v1.0.0 - 2026-05-18
+
+- Prima versiune publica AlertaComenzi.
+- Aplicatie desktop pentru monitorizarea comenzilor noi din magazine online.
+- Popup always-on-top, alerta sonora si notificare in system tray.
+- Suport initial pentru integrare WooCommerce si stub eMAG.
+- Build automat cu PyInstaller si installer generat cu Inno Setup.
+- Pachet de release cu installer, fisiere legale, README si checksums.

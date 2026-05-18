@@ -1,3 +1,8 @@
+v1.0.3 - 2026-05-18
+
+- Release nou de versiune cu actualizare metadata pentru pachetul de distributie.
+- Pastrata integrarea existenta de build si installer, care preia automat versiunea din VERSION.txt.
+
 v1.0.2 - 2026-05-18
 
 - Adaugat raport de stare pentru aplicatie si integrari, cu diagnostic rapid pentru configurare si conectivitate.

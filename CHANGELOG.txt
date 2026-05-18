@@ -1,3 +1,9 @@
+v1.0.5 - 2026-05-18
+
+- Adaugate alerte locale configurabile.
+- Aliniat testul alertei locale la fluxul real de notificare.
+- Simplificata usor logica interna de afisare si pozitionare pentru popup-uri.
+
 v1.0.4 - 2026-05-18
 
 - Micsorata fereastra Raport pentru o afisare mai compacta.

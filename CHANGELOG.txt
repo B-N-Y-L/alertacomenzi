@@ -1,3 +1,9 @@
+v1.0.6 - 2026-05-18
+
+- Corectata pozitionarea popup-urilor astfel incat sa ramana in zona vizibila a desktopului pe Windows 10.
+- Imbunatatita aplicarea temei dark pentru dialoguri, inclusiv fereastra Despre si mesajele standard.
+- Stilizat explicit scrollbar-ul pentru dialogurile cu text lung, inclusiv Licenta.
+
 v1.0.5 - 2026-05-18
 
 - Adaugate alerte locale configurabile.

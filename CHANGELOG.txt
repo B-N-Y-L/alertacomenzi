@@ -1,3 +1,9 @@
+v1.0.2 - 2026-05-18
+
+- Adaugat raport de stare pentru aplicatie si integrari, cu diagnostic rapid pentru configurare si conectivitate.
+- Adaugat dialog dedicat pentru status report si componente UI reutilizabile pentru confirmari si butoane de dialog.
+- Extinsa integrarea WooCommerce si stub-ul eMAG pentru verificari de stare si mesaje mai clare in interfata.
+
 v1.0.1 - 2026-05-18
 
 - Corectata configurarea installerului Inno Setup pentru aplicatia 64-bit.

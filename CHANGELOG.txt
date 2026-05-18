@@ -1,3 +1,9 @@
+v1.0.1 - 2026-05-18
+
+- Corectata configurarea installerului Inno Setup pentru aplicatia 64-bit.
+- Installerul foloseste acum Program Files in loc de Program Files (x86) pe Windows 64-bit.
+- Adaugat mod de instalare 64-bit in scriptul installer.iss.
+
 v1.0.0 - 2026-05-18
 
 - Prima versiune publica AlertaComenzi.

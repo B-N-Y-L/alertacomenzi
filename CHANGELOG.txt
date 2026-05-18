@@ -1,3 +1,9 @@
+v1.0.4 - 2026-05-18
+
+- Micsorata fereastra Raport pentru o afisare mai compacta.
+- Scurtate si reordonate butoanele din lista de magazine pentru o interfata mai aerisita.
+- Aliniate textele din interfata si loguri la noile denumiri Raport, Test API si Verifica.
+
 v1.0.3 - 2026-05-18
 
 - Release nou de versiune cu actualizare metadata pentru pachetul de distributie.

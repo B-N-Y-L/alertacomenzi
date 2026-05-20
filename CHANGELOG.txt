@@ -1,3 +1,9 @@
+v1.0.7 - 2026-05-20
+
+- Actualizata versiunea aplicatiei pentru noul release.
+- Notata tranzitia polling-ului pe thread separat pentru a mentine interfata mai responsiva.
+- Release-ul ramane conditionat de o inchidere curata in timpul unui polling activ.
+
 v1.0.6 - 2026-05-18
 
 - Corectata pozitionarea popup-urilor astfel incat sa ramana in zona vizibila a desktopului pe Windows 10.
